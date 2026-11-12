@@ -1,0 +1,9 @@
+/* Custom supplementary styles for The Algorithm Mobility Lab */
+.glow-cyan {
+  text-shadow: 0 0 20px rgba(0, 240, 255, 0.4);
+}
+
+.glow-violet {
+  text-shadow: 0 0 20px rgba(168, 85, 247, 0.4);
+}
+
